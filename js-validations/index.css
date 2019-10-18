@@ -15,11 +15,11 @@ h3 {
 }
 
 .required {
-    color: red;
+    color: red; 
 }
 
 .error {
-    border: 5px solid red;
+    border: 3px solid red;
 }
 
 /* body {
