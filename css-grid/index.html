@@ -1,0 +1,48 @@
+<html>
+    <body>
+        <div class="header">Header</div>
+        <div class="sidebar">Sidebar</div>
+        <div class="main">Main</div>
+        <div class="footer">Footer</div>
+        <div class="right">Right</div>
+    </body>
+    <style>
+        body {
+            display: grid;
+            grid-template-areas:
+            'header header header header header header'
+            'sidebar main main main right right'
+            'sidebar footer footer footer footer footer'
+            }
+        
+        .header {
+            grid-area: header;
+            background: red;
+            text-align: center;
+            }
+
+        .sidebar {
+            grid-area: sidebar;
+            background: blue;
+            text-align: center;
+            }
+
+        .footer {
+            grid-area: footer;
+            background: yellow;
+            text-align: center;
+            }
+
+        .main {
+            grid-area: main;
+            background: green;
+            text-align: center;
+            }
+
+        .right {
+            grid-area: right;
+            background: purple;
+            text-align: center;
+            }
+    </style>
+</html>
