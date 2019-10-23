@@ -1,0 +1,44 @@
+<movie>Hitch
+    <year>2005
+        <actors>
+            <ul>
+                <li>Will Smith</li>
+                <li>Eva Mendes</li>
+                <li>Kevin James</li>
+            </ul>
+        </actors>
+        <director>
+            <ul>
+                <li>Andy Tennant</li>
+            </ul>
+        </director>
+        <writer>
+            <ul>
+                <li>Kevin Bisch</li>
+            </ul>
+        </writer>
+    </year>
+</movie>   
+
+<movie>Tommy Boy
+    <year>1995
+        <actors>
+            <ul>
+                <li>Chris Farley</li>
+                <li>David Spade</li>
+                <li>Brian Dennehy</li>
+            </ul>
+        </actors>
+        <director>
+            <ul>
+                <li>Peter Segal</li>
+            </ul>
+        </director>
+        <writers>
+            <ul>
+                <li>Bonney Turner</li>
+                <li>Terry Turner</li>
+            </ul>
+        </writer>
+    </year>
+</movie>
