@@ -22,7 +22,7 @@ body {
 .button {
     max-width: 800px;
     margin-top: 20px;
-    background-color: black;
+    background-color: rgb(43, 41, 41);
     color: white;
     font-size: 4em;
     display: flex;
