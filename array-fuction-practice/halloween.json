@@ -1,0 +1,504 @@
+{
+    "movies": [
+        {
+            "rank": 1,
+            "title": "Creepshow",
+            "date": 1982
+        },
+        {
+            "rank": 2,
+            "title": "Phantasm",
+            "date": 1979
+        },
+        {
+            "rank": 3,
+            "title": "Halloween",
+            "date": 1978
+        },
+        {
+            "rank": 4,
+            "title": "Night of the Living Dead",
+            "date": 1968
+        },
+        {
+            "rank": 5,
+            "title": "Beetlejuice",
+            "date": 1988
+        },
+        {
+            "rank": 6,
+            "title": "Trick 'r Treat",
+            "date": 2007
+        },
+        {
+            "rank": 7,
+            "title": "House on Haunted Hill",
+            "date": 1959
+        },
+        {
+            "rank": 8,
+            "title": "The Evil Dead",
+            "date": 1981
+        },
+        {
+            "rank": 9,
+            "title": "Pumpkinhead",
+            "date": 1988
+        },
+        {
+            "rank": 10,
+            "title": "Young Frankenstein",
+            "date": 1974
+        },
+        {
+            "rank": 11,
+            "title": "Fright Night",
+            "date": 1985
+        },
+        {
+            "rank": 12,
+            "title": "The Return of the Living Dead",
+            "date": 1985
+        },
+        {
+            "rank": 13,
+            "title": "Friday the 13th",
+            "date": 1980
+        },
+        {
+            "rank": 14,
+            "title": "Horror of Dracula",
+            "date": 1958
+        },
+        {
+            "rank": 15,
+            "title": "Hellraiser",
+            "date": 1987
+        },
+        {
+            "rank": 16,
+            "title": "Evil Dead II",
+            "date": 1987
+        },
+        {
+            "rank": 17,
+            "title": "Jeepers Creepers",
+            "date": 2001
+        },
+        {
+            "rank": 18,
+            "title": "Frankenstein",
+            "date": 1931
+        },
+        {
+            "rank": 19,
+            "title": "Re-Animator",
+            "date": 1985
+        },
+        {
+            "rank": 20,
+            "title": "Something Wicked This Way Comes",
+            "date": 1983
+        },
+        {
+            "rank": 21,
+            "title": "Children of the Corn",
+            "date": 1984
+        },
+        {
+            "rank": 22,
+            "title": "Saw",
+            "date": 2004
+        },
+        {
+            "rank": 23,
+            "title": "Jason Lives",
+            "date": 1986
+        },
+        {
+            "rank": 24,
+            "title": "Halloween 4: The Return of Michael Myers",
+            "date": 1988
+        },
+        {
+            "rank": 25,
+            "title": "A Nightmare on Elm Street",
+            "date": 1984
+        },
+        {
+            "rank": 26,
+            "title": "House of 1000 Corpses",
+            "date": 2003
+        },
+        {
+            "rank": 27,
+            "title": "The Howling",
+            "date": 1981
+        },
+        {
+            "rank": 28,
+            "title": "Spider Baby or, the Maddest Story Ever Told",
+            "date": 1967
+        },
+        {
+            "rank": 29,
+            "title": "The House That Dripped Blood",
+            "date": 1971
+        },
+        {
+            "rank": 30,
+            "title": "Pet Sematary",
+            "date": 1989
+        },
+        {
+            "rank": 31,
+            "title": "Sleepy Hollow",
+            "date": 1999
+        },
+        {
+            "rank": 32,
+            "title": "Psycho II",
+            "date": 1983
+        },
+        {
+            "rank": 33,
+            "title": "Army of Darkness",
+            "date": 1992
+        },
+        {
+            "rank": 34,
+            "title": "Bride of Frankenstein",
+            "date": 1935
+        },
+        {
+            "rank": 35,
+            "title": "Dead Alive",
+            "date": 1992
+        },
+        {
+            "rank": 36,
+            "title": "Near Dark",
+            "date": 1987
+        },
+        {
+            "rank": 37,
+            "title": "Scream",
+            "date": 1996
+        },
+        {
+            "rank": 38,
+            "title": "The Fog",
+            "date": 1980
+        },
+        {
+            "rank": 39,
+            "title": "Pit and the Pendulum",
+            "date": 1961
+        },
+        {
+            "rank": 40,
+            "title": "From Dusk Till Dawn",
+            "date": 1996
+        },
+        {
+            "rank": 41,
+            "title": "The Wolf Man",
+            "date": 1941
+        },
+        {
+            "rank": 42,
+            "title": "It",
+            "date": 1990
+        },
+        {
+            "rank": 43,
+            "title": "In the Mouth of Madness",
+            "date": 1994
+        },
+        {
+            "rank": 44,
+            "title": "The Fly",
+            "date": 1986
+        },
+        {
+            "rank": 45,
+            "title": "Cemetery Man",
+            "date": 1994
+        },
+        {
+            "rank": 46,
+            "title": "The Silence of the Lambs",
+            "date": 1991
+        },
+        {
+            "rank": 47,
+            "title": "From Beyond",
+            "date": 1986
+        },
+        {
+            "rank": 48,
+            "title": "Prince of Darkness",
+            "date": 1987
+        },
+        {
+            "rank": 49,
+            "title": "Poltergeist",
+            "date": 1982
+        },
+        {
+            "rank": 50,
+            "title": "Nosferatu",
+            "date": 1922
+        },
+        {
+            "rank": 51,
+            "title": "The Thing",
+            "date": 1982
+        },
+        {
+            "rank": 52,
+            "title": "The Amityville Horror",
+            "date": 1979
+        },
+        {
+            "rank": 53,
+            "title": "The Omen",
+            "date": 1976
+        },
+        {
+            "rank": 54,
+            "title": "Suspiria",
+            "date": 1977
+        },
+        {
+            "rank": 55,
+            "title": "The Legend of Hell House",
+            "date": 1973
+        },
+        {
+            "rank": 56,
+            "title": "Wes Craven's New Nightmare",
+            "date": 1994
+        },
+        {
+            "rank": 57,
+            "title": "Witchfinder General",
+            "date": 1968
+        },
+        {
+            "rank": 58,
+            "title": "The Exorcist",
+            "date": 1973
+        },
+        {
+            "rank": 59,
+            "title": "Black Sunday",
+            "date": 1960
+        },
+        {
+            "rank": 60,
+            "title": "The Birds",
+            "date": 1963
+        },
+        {
+            "rank": 61,
+            "title": "House of Wax",
+            "date": 1953
+        },
+        {
+            "rank": 62,
+            "title": "Drag Me to Hell",
+            "date": 2009
+        },
+        {
+            "rank": 63,
+            "title": "Friday the 13th: Part III",
+            "date": 1982
+        },
+        {
+            "rank": 64,
+            "title": "The Thing from Another World",
+            "date": 1951
+        },
+        {
+            "rank": 65,
+            "title": "The Texas Chainsaw Massacre 2",
+            "date": 1986
+        },
+        {
+            "rank": 66,
+            "title": "The Haunting",
+            "date": 1963
+        },
+        {
+            "rank": 67,
+            "title": "Hellbound: Hellraiser II",
+            "date": 1988
+        },
+        {
+            "rank": 68,
+            "title": "An American Werewolf in London",
+            "date": 1981
+        },
+        {
+            "rank": 69,
+            "title": "The Wicker Man",
+            "date": 1973
+        },
+        {
+            "rank": 70,
+            "title": "Jeepers Creepers 2",
+            "date": 2003
+        },
+        {
+            "rank": 71,
+            "title": "Carrie",
+            "date": 1976
+        },
+        {
+            "rank": 72,
+            "title": "Frankenstein Meets the Wolf Man",
+            "date": 1943
+        },
+        {
+            "rank": 73,
+            "title": "Halloween II",
+            "date": 2009
+        },
+        {
+            "rank": 74,
+            "title": "The Monster Squad",
+            "date": 1987
+        },
+        {
+            "rank": 75,
+            "title": "Child's Play",
+            "date": 1988
+        },
+        {
+            "rank": 76,
+            "title": "The Changeling",
+            "date": 1980
+        },
+        {
+            "rank": 77,
+            "title": "Rosemary's Baby",
+            "date": 1968
+        },
+        {
+            "rank": 78,
+            "title": "The Shining",
+            "date": 1980
+        },
+        {
+            "rank": 79,
+            "title": "The House of the Devil",
+            "date": 2009
+        },
+        {
+            "rank": 80,
+            "title": "The Sentinel",
+            "date": 1977
+        },
+        {
+            "rank": 81,
+            "title": "Vampires",
+            "date": 1998
+        },
+        {
+            "rank": 82,
+            "title": "House",
+            "date": 1985
+        },
+        {
+            "rank": 83,
+            "title": "Hatchet",
+            "date": 2006
+        },
+        {
+            "rank": 84,
+            "title": "Corpse Bride",
+            "date": 2005
+        },
+        {
+            "rank": 85,
+            "title": "Friday the 13th: The New Blood",
+            "date": 1988
+        },
+        {
+            "rank": 86,
+            "title": "Halloween",
+            "date": 2007
+        },
+        {
+            "rank": 87,
+            "title": "Psycho",
+            "date": 1960
+        },
+        {
+            "rank": 88,
+            "title": "Dracula",
+            "date": 1931
+        },
+        {
+            "rank": 89,
+            "title": "Black Christmas",
+            "date": 1974
+        },
+        {
+            "rank": 90,
+            "title": "Saw II",
+            "date": 2005
+        },
+        {
+            "rank": 91,
+            "title": "Let the Right One In",
+            "date": 2008
+        },
+        {
+            "rank": 92,
+            "title": "Ed Wood",
+            "date": 1994
+        },
+        {
+            "rank": 93,
+            "title": "Cabin Fever",
+            "date": 2002
+        },
+        {
+            "rank": 94,
+            "title": "The Burning",
+            "date": 1981
+        },
+        {
+            "rank": 95,
+            "title": "The Hitcher",
+            "date": 1986
+        },
+        {
+            "rank": 96,
+            "title": "Freaks",
+            "date": 1932
+        },
+        {
+            "rank": 97,
+            "title": "Little Shop of Horrors",
+            "date": 1986
+        },
+        {
+            "rank": 98,
+            "title": "Behind the Mask: The Rise of Leslie Vernon",
+            "date": 2006
+        },
+        {
+            "rank": 99,
+            "title": "House",
+            "date": 1977
+        },
+        {
+            "rank": 100,
+            "title": "The Serpent and the Rainbow",
+            "date": 1988
+        }
+    ]
+}

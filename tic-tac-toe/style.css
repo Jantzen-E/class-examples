@@ -1,7 +1,22 @@
 .square {
     width: 75px;
     height: 75px;
-    outline: none;
-    font-size: 50px;
+    /* outline: none; */
+    font-size: 30px;
+    /* margin-bottom: 3px ;
+    margin-top: 3px;
+    margin-left: 2px;
+    margin-right: 2px; */
+    padding: 22px 10px;
 }
 
+button:hover {
+    background-color: red;
+}
+
+#resetGame {
+    margin-top: 20px;
+    font-size: 2em;
+    width: 232px;
+    border-inline-start-color: rgb(46, 46, 233);
+}
