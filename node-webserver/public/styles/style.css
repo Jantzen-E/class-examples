@@ -1,0 +1,55 @@
+body {
+    background: #404040;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.name-badge {
+    width: 380px;
+    height: 200px;
+    background: red;
+    border-radius: 10px;
+    box-shadow: 3px 6px #1e1e1e;
+    position: relative;
+}
+
+.name {
+    background: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    position: absolute;
+    bottom: 15px;
+    width: 100%;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.label * {
+    color: white;
+    text-align: center;
+}
+.big-text {
+    font-size: 40px;
+}
+
+.small-text {
+    font-size: 20px;
+}
+
+button {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.textBox {
+    margin-right: 10px;
+    font-size: 20px;
+}

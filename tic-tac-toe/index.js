@@ -1,6 +1,11 @@
 const bannerElement = document.querySelector('#banner');
 const resetButtonElement = document.querySelector('#resetGame');
 const squareButtonElements = document.querySelectorAll('.square');
+const playerxScoreElement = document.querySelector('#playerxScore');
+
+let xWinCount = 0;
+let oWinCount = 0;
+
 let currentPlayersTurn = 'X';
 let isGameOver = false;
 let turnCount = 0;
@@ -95,6 +100,15 @@ function checkForWinner(player) {
 
     if (isGameOver) {
         bannerElement.textContent = `PLAYER ${player} is the winner!`;
+
+        if (player === 'X') {
+            xWinCount++;
+            playerxScoreElement.textContent = `Score for Player X: ${xWinCount}`;
+        }
+        else {
+            oWinCount++;
+            playeroScoreElement.textContent = `Score for Player O: ${oWinCount}`;
+        }
     }
     if (isGameOver) {
         setTimeout(function(){ alert("YOU WON!!!!!!!!!!!!!!!!!!"); }, 100);
