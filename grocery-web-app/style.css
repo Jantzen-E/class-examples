@@ -1,0 +1,50 @@
+body {
+    display: grid;
+    grid-template-areas:
+            'header header header header header header'
+            'main main main sidebar sidebar sidebar'
+}
+
+.header {
+    grid-area: header;
+    background: rgb(250, 117, 117);
+    text-align: center;
+    height: 100px;
+}
+
+.sidebar {
+    grid-area: sidebar;
+    background: rgb(136, 162, 248);
+    text-align: center;
+    height: 900px;
+    
+}
+
+.main {
+    grid-area: main;
+    background: rgb(158, 248, 158);
+    text-align: center;
+    height: 900px;
+    width: 80%;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col {
+    height: 250px;
+    width: 15%;
+    background: rgb(119, 86, 119);
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-right: 1px;
+}
+
+button {
+    
+    margin-top: 150px;
+}
