@@ -1,5 +1,3 @@
-console.log("BEGIN");
-
 let i = 1;
 
 do {
@@ -23,5 +21,3 @@ do {
 
 }
 while (i < 101);
-
-console.log("END");

@@ -1,5 +1,3 @@
-console.log("BEGIN");
-
 let i = 0;
 
 while (i < 100) {
@@ -22,4 +20,3 @@ while (i < 100) {
         console.log(i);
     }
 };
-console.log("END");

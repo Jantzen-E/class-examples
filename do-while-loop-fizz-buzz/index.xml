@@ -1,0 +1,12 @@
+What is FIZZBUZZ?
+
+FIZZBUZZ is a game where you count from 1-100 and for every number that is
+divisible by 3, you say FIZZ and for every number that is divisible by 5,
+you say BUZZ.  If a number is divisible by both 3 and 5, you say FIZZBUZZ.
+
+I have been told that many tech companies use FIZZBUZZ as a coding challenge in 
+the interview process and so I decided to make a video showing 3 different solutions
+for the FIZZBUZZ coding challenge.
+
+I am a beginner and my syntax is not 100% correct but the 3 loops I will show for the 
+solutions will hopefully be helpful to some of you.

@@ -3,6 +3,8 @@ const MongoClient = require('mongodb').MongoClient;
 require('dotenv').config();
 
 const databaseName = 'grocery-db';
+const collectionName = 'products';
+
 const mongoDbUrl = process.env.MONGODB_URL;
 // const mongoDbUrl = 'gdfgdfgdfgfgd';
 const settings = {
