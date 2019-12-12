@@ -1,13 +1,17 @@
 import React from 'react';
 
-class HomePage extends React.Component {
+class LoginForm extends React.Component {
     constructor(props) {
         super(props);
     }
+
+    render() {
+        return (
+            <div>
+                LOGIN FORM
+            </div>
+        );
+    }
 }
 
-
-
-
-
-export default HomePage;
+export default LoginForm;

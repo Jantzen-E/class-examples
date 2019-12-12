@@ -1,5 +1,7 @@
 import React from 'react';
 
+import LoginForm from '../components/LoginForm';
+
 class LoginPage extends React.Component {
     constructor(props) {
         super(props);
@@ -21,6 +23,8 @@ class LoginPage extends React.Component {
         return (
             <div className="login-page-container">
                 <h1>LOGIN</h1>
+
+                <LoginForm/>
                 {/* { this.state.mode === 'login' ? this.renderLoginForm() : this.renderForgotPasswordForm() } */}
             </div>
         );

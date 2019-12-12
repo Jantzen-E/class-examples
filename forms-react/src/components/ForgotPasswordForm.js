@@ -1,13 +1,9 @@
 import React from 'react';
 
-class HomePage extends React.Component {
+class ForgotPasswordForm extends React.Component {
     constructor(props) {
         super(props);
     }
 }
 
-
-
-
-
-export default HomePage;
+export default ForgotPasswordForm;

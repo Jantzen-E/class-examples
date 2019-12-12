@@ -1,13 +1,9 @@
 import React from 'react';
 
-class HomePage extends React.Component {
+class Button extends React.Component {
     constructor(props) {
         super(props);
     }
 }
 
-
-
-
-
-export default HomePage;
+export default Button;
