@@ -1,5 +1,4 @@
 import React from 'react';
-import { render } from '@testing-library/react';
 import { number } from 'prop-types';
 
 class Die extends React.Component {
@@ -7,7 +6,7 @@ class Die extends React.Component {
         super(props);
 
         this.state = {
-            result: number,
+            result: '',
         };
 
         this.handleRoll = this.handleRoll.bind(this);

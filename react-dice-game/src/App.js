@@ -4,12 +4,6 @@ import Die from './components/Die';
 import { render } from '@testing-library/react';
 import DiceBagPage from './pages/DiceBagPage';
 
-
-    
- 
-
-
-
 class App extends React.Component{
   constructor(props) {
     super(props);
@@ -30,8 +24,7 @@ class App extends React.Component{
         <Die sides={ 9 }/>
         <Die sides={ 13 }/> */}
         <DiceBagPage/>
-      </div>
-      
+      </div> 
     );
   }  
 }
