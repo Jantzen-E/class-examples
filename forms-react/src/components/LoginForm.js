@@ -7,10 +7,22 @@ class LoginForm extends React.Component {
 
     render() {
         return (
-            <div>
-                LOGIN FORM
-            </div>
+            
+            <form onSubmit={ this.handleSubmit }>
+                {/* <div>LOGIN FORM</div> */}
+                {/* <div>
+                    <input>{  }</input>
+                </div> */}
+            </form>
+            
+            // handleSubmit(e) {
+            //     e.preventDefault();
+            // }
         );
+
+        // if(username === '') {
+        //     alert("fill in your username");
+        // }
     }
 }
 
